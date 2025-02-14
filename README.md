@@ -1,4 +1,5 @@
 # Exercise for lecture 1
+Classroom assignment: https://classroom.github.com/a/CokEhI-7
 
 ## Learning Objectives
 - Set up development environment
